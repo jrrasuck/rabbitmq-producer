@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    virtual-host: hktddsvi
+    username: hktddsvi
+    password: 63nU4GEcX0V-GF-BeL3WtPoPeRAwJXmy
+    host: prawn.rmq.cloudamqp.com
